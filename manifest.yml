@@ -1,0 +1,12 @@
+modules:
+  'jira:issuePanel':
+    - key: text2image-text2image
+      function: main
+      title: text2image
+      description: Text2image JIRA description
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/6e2a21ac-964b-41bf-8921-0cf763b51ef6'
+  name: text2image
