@@ -1,6 +1,6 @@
-# Summarization
+# Text to image app
 
-This project contains a Forge app written in Javascript that converts the text in the description of theJIRA ticket to an Image. 
+This project contains a Forge app written in Javascript that converts the text in the description of the JIRA ticket to an Image. 
 
 ## Requirements
 
